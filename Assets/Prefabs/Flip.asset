@@ -16,128 +16,128 @@ MonoBehaviour:
   - levels:
     - two: 3
       three: 1
-      orb: 6
+      orb: 5
     - two: 0
       three: 3
-      orb: 6
+      orb: 5
     - two: 5
       three: 0
-      orb: 6
+      orb: 5
     - two: 2
       three: 2
-      orb: 6
+      orb: 5
     - two: 4
       three: 1
-      orb: 6
+      orb: 5
   - levels:
     - two: 1
       three: 3
-      orb: 7
+      orb: 6
     - two: 6
       three: 0
-      orb: 7
+      orb: 6
     - two: 3
       three: 2
-      orb: 7
+      orb: 6
     - two: 0
       three: 4
-      orb: 7
+      orb: 6
     - two: 5
       three: 1
-      orb: 7
+      orb: 6
   - levels:
     - two: 2
       three: 3
-      orb: 8
+      orb: 7
     - two: 7
       three: 0
-      orb: 8
+      orb: 7
     - two: 4
       three: 2
-      orb: 8
+      orb: 7
     - two: 1
       three: 4
-      orb: 8
+      orb: 7
     - two: 6
       three: 1
-      orb: 8
+      orb: 7
   - levels:
     - two: 3
       three: 3
-      orb: 8
+      orb: 7
     - two: 0
       three: 5
-      orb: 8
+      orb: 7
     - two: 8
       three: 0
-      orb: 10
+      orb: 8
     - two: 5
       three: 2
-      orb: 10
+      orb: 8
     - two: 2
       three: 4
-      orb: 10
+      orb: 8
   - levels:
     - two: 7
       three: 1
-      orb: 10
+      orb: 8
     - two: 4
       three: 3
-      orb: 10
+      orb: 8
     - two: 1
       three: 5
-      orb: 10
+      orb: 8
     - two: 9
       three: 0
-      orb: 10
+      orb: 8
     - two: 6
       three: 2
-      orb: 10
+      orb: 8
   - levels:
     - two: 3
       three: 4
-      orb: 10
+      orb: 8
     - two: 0
       three: 6
-      orb: 10
+      orb: 8
     - two: 8
       three: 1
-      orb: 10
+      orb: 8
     - two: 5
       three: 3
-      orb: 10
+      orb: 8
     - two: 2
       three: 5
-      orb: 10
+      orb: 8
   - levels:
     - two: 7
       three: 2
-      orb: 10
+      orb: 8
     - two: 4
       three: 4
-      orb: 10
+      orb: 8
     - two: 1
       three: 6
-      orb: 13
+      orb: 11
     - two: 9
       three: 1
-      orb: 13
+      orb: 11
     - two: 6
       three: 3
-      orb: 10
+      orb: 8
   - levels:
     - two: 0
       three: 7
-      orb: 10
+      orb: 8
     - two: 8
       three: 2
-      orb: 10
+      orb: 8
     - two: 5
       three: 4
-      orb: 10
+      orb: 8
     - two: 2
       three: 6
-      orb: 10
+      orb: 8
     - two: 7
       three: 3
-      orb: 10
+      orb: 8

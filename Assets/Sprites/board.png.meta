@@ -1104,7 +1104,7 @@ TextureImporter:
         width: 44
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1112,6 +1112,27 @@ TextureImporter:
       bones: []
       spriteID: 6d866b4cf3acac84ea814bc72e75e521
       internalID: -1394648315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 690
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f80b7ed3499c740b8a0ecae3208e95
+      internalID: 627033184
       vertices: []
       indices: 
       edges: []
@@ -1156,6 +1177,7 @@ TextureImporter:
       threesmall: -782655867
       Settings: -1394648315
       eightbig: 831142856
+      board_3: 627033184
       board_2: 379650740
       Arrow: 118476871
       oneBig: -327271958

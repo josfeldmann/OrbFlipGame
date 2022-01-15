@@ -5,7 +5,7 @@ public class GameMasterManager : MonoBehaviour
 {
     public StateMachine<GameMasterManager> controller;
 
-    public GameObject mainMenu;
+    public GameObject mainMenu, tutorial;
     public OptionsWindow optionsWindow;
     public CanvasScaler canvasScaler;
     public StatScreen statScreen;
@@ -49,6 +49,7 @@ public class GameMasterManager : MonoBehaviour
     }
 
     public void HideAll() {
+        tutorial.SetActive(false);
         mainMenu.SetActive(false);
         optionsWindow.gameObject.SetActive(false);
         flipController.gameObject.SetActive(false);
@@ -70,6 +71,10 @@ public class GameMasterManager : MonoBehaviour
 
     public void GoToStatsMenu() {
         controller.ChangeState(new StatsState());
+    }
+
+    public void GoToTutorial() {
+        controller.ChangeState(new TutorialState());
     }
 
     public void Quit() {
@@ -108,4 +113,13 @@ public class StatsState : State<GameMasterManager> {
         obj.target.statScreen.SetUp();
     }
 }
+
+public class TutorialState : State<GameMasterManager> {
+    public override void Enter(StateMachine<GameMasterManager> obj) {
+        obj.target.HideAll();
+        obj.target.tutorial.gameObject.SetActive(true);
+        
+    }
+}
+
 
