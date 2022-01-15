@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3157665fb848cf44498199d6d48d19ef, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  cardback: {fileID: 614884535, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  cardfront: {fileID: 814149619, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  ball: {fileID: -529103259, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  one: {fileID: -327271958, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  two: {fileID: -1920746614, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  three: {fileID: -1095417368, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  four: {fileID: -2055715558, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  five: {fileID: -1743227371, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  six: {fileID: 22393226, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  seven: {fileID: 1138663373, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  eight: {fileID: 831142856, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  nine: {fileID: 209511077, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  zero: {fileID: 1197033826, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  onesmall: {fileID: -884768677, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  twosmall: {fileID: 815354168, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  threesmall: {fileID: -782655867, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  foursmall: {fileID: -642659650, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  fivesmall: {fileID: -1625956347, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  sixsmall: {fileID: 894982543, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  sevensmall: {fileID: 42471823, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  eightsmall: {fileID: 1448815054, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  ninesmall: {fileID: 787358626, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
+  zerosmall: {fileID: 1755552115, guid: f6bdc87aab59c1f48acf89215ce408b4, type: 3}
